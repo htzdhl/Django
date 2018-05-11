@@ -6,3 +6,4 @@ class MongoClent():
 if __name__=="__main__":
 	conn = MongoClent()
 	conn.sayHello()
+	12345
